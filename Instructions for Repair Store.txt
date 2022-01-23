@@ -1,0 +1,17 @@
+Hello! Welcome to "Repair tracker".
+
+Please read the instructions below to know how to use and understand the program.
+
+- The project has been developed on Visual Studio Code, but it run on any other IDE.
+
+- Information can be saved and read from file "data.txt", included on the folder.
+
+- In order to save time during testing, the file "data.txt" has already repair tasks on it. If needed, it can be overwritten by
+choosing option [1] Initialize database, and after that, option [2] Write records to file.
+
+- Every repair task has an unique ID that is assigned individually and in order at the time that the user chooses option [4] Add a repair task. 
+
+- When choosing options [5], [6], and [7], the repair task ID is required. Therefore, it may be a suitable to check it out first
+ with option [10] the general report. 
+
+- That is everything! Thank you for using it!

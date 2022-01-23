@@ -1,0 +1,51 @@
+10
+Carlos
+overheating
+ attery change
+35
+1
+Selena
+bad keyboard
+ ew keyboard
+62
+1
+Raul
+System crash
+
+0
+0
+Vanessa
+Battery dies fast
+
+0
+0
+Lauren
+malware
+
+0
+0
+Maria
+no internet
+
+0
+0
+Linda
+stuck pixel
+
+0
+0
+Rita
+doesn't turn on
+
+0
+0
+Harry
+loud fan 
+
+0
+0
+Roberto
+running slowly
+
+0
+0
